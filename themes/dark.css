@@ -4,8 +4,8 @@ body {
 }
 
 .search_bar {
-	background-color: #303030;
-	color: #000000;
+	background-color: #000000;
+	color: #303030;
 }
 
 .search_bar::placeholder {
