@@ -1,27 +1,24 @@
 body {
-	background-color: #1d2021;
-	color: #ebdbb2;
+	background-color: #19161e;
+	color: #303030;
 }
 
 .search_bar {
-	background-color: #3c3836;
-	color: #ebdbb2;
-	border-bottom: 8px solid #312d2b;
+	background-color: #303030;
+	color: #19161e;
 }
 
 .search_bar::placeholder {
-	color: #928374;
+	color: #19161e;
 }
 
 .search_button {
 	background-color: #689d6a;
 	color: #1d2021;
-	border-bottom: 8px solid #518554;
 }
 
 .search_button:hover {
 	background-color: #8ec07c;
-	border-bottom: 8px solid #76a765;
 }
 
 p {
