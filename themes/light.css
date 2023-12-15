@@ -1,30 +1,26 @@
 body {
-	background-color: #ffffdb;
-	color: #282828;
+	background-color: #19161e;
+	color: #303030;
 }
 
 .search_bar {
-	background-color: #ebdbb2;
-	color: #282828;
-	border-bottom: 8px solid #d7c89f;
+	background-color: #303030;
+	color: #000000;
 }
 
 .search_bar::placeholder {
-	color: #7c6f64;
+	color: #19161e;
 }
 
 .search_button {
-	background-color: #26788a;
-	color: #282828;
-	border-bottom: 8px solid #076678;
+	background-color: #5e69af;
+	color: #000000;
 }
 
 .search_button:hover {
-	background-color: #458588;
-	border-bottom: 8px solid #327376;
+	background-color: #8698c0;
 }
 
 p {
-	background-color: #d5c4a1;
-	border-bottom: 8px solid #c1b18e;
+	background-color: #000000;
 }
