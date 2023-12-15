@@ -5,7 +5,7 @@ body {
 
 .search_bar {
 	background-color: #303030;
-	color: #19161e;
+	color: #000000;
 }
 
 .search_bar::placeholder {
@@ -13,15 +13,14 @@ body {
 }
 
 .search_button {
-	background-color: #689d6a;
-	color: #1d2021;
+	background-color: #5e69af;
+	color: #000000;
 }
 
 .search_button:hover {
-	background-color: #8ec07c;
+	background-color: #8698c0;
 }
 
 p {
-	background-color: #343434;
-	border-bottom: 8px solid #292929;
+	background-color: #000000;
 }
